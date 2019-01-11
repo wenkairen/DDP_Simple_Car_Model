@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gary/test/hybrid_breadth_first.cpp
+algorithm
+-
+iostream
+-
+sstream
+-
+fstream
+-
+math.h
+-
+vector
+-
+hybrid_breadth_first.h
+/home/gary/test/hybrid_breadth_first.h
+
+/home/gary/test/hybrid_breadth_first.h
+iostream
+-
+sstream
+-
+fstream
+-
+math.h
+-
+vector
+-
+

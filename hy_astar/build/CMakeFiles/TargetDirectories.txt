@@ -1,0 +1,4 @@
+/home/gary/test/build/CMakeFiles/rebuild_cache.dir
+/home/gary/test/build/CMakeFiles/main_shared.dir
+/home/gary/test/build/CMakeFiles/edit_cache.dir
+/home/gary/test/build/CMakeFiles/main.dir
